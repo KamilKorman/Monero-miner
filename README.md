@@ -1,0 +1,2 @@
+# Monero-miner
+48bF4ipuQhE1wR8y7j4FKbCWqcXYPY1Uw361jGSKz2tzL9x6Z5YMhriYFzw2ZhhSBoHhS8pNtHS2tTt34Qy96qXqV7znRjF
